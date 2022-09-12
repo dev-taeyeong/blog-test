@@ -75,6 +75,8 @@ URI uri = UriComponentsBuilder
         .toUri();
 ```
 
+<br/>
+
 `expand()` 메서드를 사용해서 `path`에 변수를 넣을 수 있다.
 
 ```java
